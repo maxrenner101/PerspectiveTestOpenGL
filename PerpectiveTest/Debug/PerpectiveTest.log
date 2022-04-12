@@ -1,0 +1,7 @@
+﻿  App.cpp
+C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\src\App.cpp(183,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\src\App.cpp(209,13): warning C4305: '+=': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\Debug\vc120.pdb'; linking object as if no debug info
+  PerpectiveTest.vcxproj -> C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\Debug\PerpectiveTest.exe

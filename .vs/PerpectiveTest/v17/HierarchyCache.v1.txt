@@ -1,0 +1,1226 @@
+﻿++Solution 'PerpectiveTest' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:PerpectiveTest.sln
+++PerpectiveTest
+i:{00000000-0000-0000-0000-000000000000}:PerpectiveTest
+++External Dependencies
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:{7C5AB88A-CFAB-4C95-BE21-576E067BDE39}
+++Debug
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug
+++lib
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib
+++glm
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm
+++shaders
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\shaders
+++Default.shader
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\shaders\Default.shader
+++src
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\src
+++App.cpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\src\App.cpp
+++x64
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64
+++__msvc_system_error_abi.hpp
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\__MSVC_SYSTEM_ERROR_ABI.HPP
+++__msvc_xlocinfo_types.hpp
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\__MSVC_XLOCINFO_TYPES.HPP
+++ammintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\AMMINTRIN.H
+++arm_neon.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ARM_NEON.H
+++arm64_neon.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ARM64_NEON.H
+++arm64intr.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ARM64INTR.H
+++armintr.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ARMINTR.H
+++assert.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\ASSERT.H
+++atomic
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ATOMIC
+++bit
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\BIT
+++cassert
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CASSERT
+++cctype
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CCTYPE
+++cerrno
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CERRNO
+++cfloat
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CFLOAT
+++climits
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CLIMITS
+++clocale
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CLOCALE
+++cmath
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CMATH
+++compare
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\COMPARE
+++concepts
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CONCEPTS
+++concurrencysal.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CONCURRENCYSAL.H
+++corecrt.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT.H
+++corecrt_malloc.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_MALLOC.H
+++corecrt_math.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_MATH.H
+++corecrt_math_defines.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_MATH_DEFINES.H
+++corecrt_memcpy_s.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_MEMCPY_S.H
+++corecrt_memory.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_MEMORY.H
+++corecrt_search.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_SEARCH.H
+++corecrt_share.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_SHARE.H
+++corecrt_stdio_config.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_STDIO_CONFIG.H
+++corecrt_terminate.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_TERMINATE.H
+++corecrt_wconio.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WCONIO.H
+++corecrt_wctype.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WCTYPE.H
+++corecrt_wdirect.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WDIRECT.H
+++corecrt_wio.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WIO.H
+++corecrt_wprocess.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WPROCESS.H
+++corecrt_wstdio.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WSTDIO.H
+++corecrt_wstdlib.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WSTDLIB.H
+++corecrt_wstring.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WSTRING.H
+++corecrt_wtime.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CORECRT_WTIME.H
+++crtdbg.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CRTDBG.H
+++crtdefs.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CRTDEFS.H
+++cstdarg
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CSTDARG
+++cstddef
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CSTDDEF
+++cstdint
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CSTDINT
+++cstdio
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CSTDIO
+++cstdlib
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CSTDLIB
+++cstring
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CSTRING
+++ctime
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CTIME
+++ctype.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\CTYPE.H
+++cwchar
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CWCHAR
+++eh.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\EH.H
+++emmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\EMMINTRIN.H
+++errno.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\ERRNO.H
+++exception
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\EXCEPTION
+++float.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\FLOAT.H
+++fstream
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\FSTREAM
+++functional
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\FUNCTIONAL
+++GL.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UM\GL\GL.H
+++glew.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\USERS\MAX.DESKTOP-29172\SOURCE\REPOS\PERPECTIVETEST\DEPENDENCIES\GLEW\INCLUDE\GL\GLEW.H
+++glfw3.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\USERS\MAX.DESKTOP-29172\SOURCE\REPOS\PERPECTIVETEST\DEPENDENCIES\GLFW\INCLUDE\GLFW\GLFW3.H
+++GLU.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UM\GL\GLU.H
+++immintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\IMMINTRIN.H
+++initializer_list
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\INITIALIZER_LIST
+++intrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\INTRIN.H
+++intrin0.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\INTRIN0.H
+++intrin0.inl.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\INTRIN0.INL.H
+++inttypes.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\INTTYPES.H
+++iomanip
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\IOMANIP
+++ios
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\IOS
+++iosfwd
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\IOSFWD
+++iostream
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\IOSTREAM
+++isa_availability.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ISA_AVAILABILITY.H
+++istream
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ISTREAM
+++iterator
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ITERATOR
+++limits
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\LIMITS
+++limits.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\LIMITS.H
+++list
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\LIST
+++locale
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\LOCALE
+++locale.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\LOCALE.H
+++malloc.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\MALLOC.H
+++math.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\MATH.H
+++memory
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\MEMORY
+++mm3dnow.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\MM3DNOW.H
+++mmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\MMINTRIN.H
+++new
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\NEW
+++nmmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\NMMINTRIN.H
+++ostream
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\OSTREAM
+++pmmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\PMMINTRIN.H
+++sal.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\SAL.H
+++setjmp.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\SETJMP.H
+++setjmpex.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\SETJMPEX.H
+++share.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\SHARE.H
+++smmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\SMMINTRIN.H
+++sourceannotations.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\CODEANALYSIS\SOURCEANNOTATIONS.H
+++sstream
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\SSTREAM
+++stat.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\SYS\STAT.H
+++stdarg.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\STDARG.H
+++stddef.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\STDDEF.H
+++stdexcept
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\STDEXCEPT
+++stdint.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\STDINT.H
+++stdio.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\STDIO.H
+++stdlib.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\STDLIB.H
+++streambuf
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\STREAMBUF
+++string
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\STRING
+++string.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\STRING.H
+++system_error
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\SYSTEM_ERROR
+++time.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\TIME.H
+++tmmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\TMMINTRIN.H
+++tuple
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\TUPLE
+++type_traits
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\TYPE_TRAITS
+++typeinfo
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\TYPEINFO
+++types.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\SYS\TYPES.H
+++unordered_map
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\UNORDERED_MAP
+++use_ansi.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\USE_ANSI.H
+++utility
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\UTILITY
+++vadefs.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VADEFS.H
+++vcruntime.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VCRUNTIME.H
+++vcruntime_exception.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VCRUNTIME_EXCEPTION.H
+++vcruntime_new.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VCRUNTIME_NEW.H
+++vcruntime_new_debug.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VCRUNTIME_NEW_DEBUG.H
+++vcruntime_string.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VCRUNTIME_STRING.H
+++vcruntime_typeinfo.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VCRUNTIME_TYPEINFO.H
+++vector
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\VECTOR
+++wchar.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\UCRT\WCHAR.H
+++winapifamily.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\SHARED\WINAPIFAMILY.H
+++winpackagefamily.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES (X86)\WINDOWS KITS\10\INCLUDE\10.0.19041.0\SHARED\WINPACKAGEFAMILY.H
+++wmmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\WMMINTRIN.H
+++xatomic.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XATOMIC.H
+++xatomic_wait.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XATOMIC_WAIT.H
+++xbit_ops.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XBIT_OPS.H
+++xcall_once.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XCALL_ONCE.H
+++xerrc.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XERRC.H
+++xfacet
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XFACET
+++xhash
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XHASH
+++xiosbase
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XIOSBASE
+++xkeycheck.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XKEYCHECK.H
+++xlocale
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XLOCALE
+++xlocbuf
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XLOCBUF
+++xlocinfo
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XLOCINFO
+++xlocmes
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XLOCMES
+++xlocmon
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XLOCMON
+++xlocnum
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XLOCNUM
+++xloctime
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XLOCTIME
+++xmemory
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XMEMORY
+++xmmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XMMINTRIN.H
+++xnode_handle.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XNODE_HANDLE.H
+++xpolymorphic_allocator.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XPOLYMORPHIC_ALLOCATOR.H
+++xstddef
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XSTDDEF
+++xstring
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XSTRING
+++xthreads.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XTHREADS.H
+++xtimec.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XTIMEC.H
+++xtr1common
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XTR1COMMON
+++xutility
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\XUTILITY
+++yvals.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\YVALS.H
+++yvals_core.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\YVALS_CORE.H
+++zmmintrin.h
+e:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\VC\TOOLS\MSVC\14.31.31103\INCLUDE\ZMMINTRIN.H
+++PerpectiveTest.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog
+++App.obj
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\App.obj
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\App.obj
+++glm.obj
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\glm.obj
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\glm.obj
+++PerpectiveTest.exe.recipe
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.exe.recipe
+++PerpectiveTest.ilk
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.ilk
+++PerpectiveTest.log
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.log
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.log
+++vc143.idb
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\vc143.idb
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\vc143.idb
+++vc143.pdb
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\vc143.pdb
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\vc143.pdb
+++detail
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail
+++ext
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext
+++gtc
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc
+++gtx
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx
+++simd
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd
+++CMakeLists.txt
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\CMakeLists.txt
+++common.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\common.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\common.hpp
+++exponential.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\exponential.hpp
+++ext.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext.hpp
+++fwd.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\fwd.hpp
+++geometric.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\geometric.hpp
+++glm.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\glm.hpp
+++integer.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\integer.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\integer.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\integer.hpp
+++mat2x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat2x2.hpp
+++mat2x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat2x3.hpp
+++mat2x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat2x4.hpp
+++mat3x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat3x2.hpp
+++mat3x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat3x3.hpp
+++mat3x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat3x4.hpp
+++mat4x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat4x2.hpp
+++mat4x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat4x3.hpp
+++mat4x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\mat4x4.hpp
+++matrix.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\matrix.hpp
+++packing.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\packing.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\packing.hpp
+++trigonometric.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\trigonometric.hpp
+++vec2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\vec2.hpp
+++vec3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\vec3.hpp
+++vec4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\vec4.hpp
+++vector_relational.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\vector_relational.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_relational.hpp
+++CL.command.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog\CL.command.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\CL.command.1.tlog
+++CL.read.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog\CL.read.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\CL.read.1.tlog
+++CL.write.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog\CL.write.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\CL.write.1.tlog
+++link.command.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog\link.command.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link.command.1.tlog
+++link.read.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog\link.read.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link.read.1.tlog
+++link.write.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog\link.write.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link.write.1.tlog
+++PerpectiveTest.lastbuildstate
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\Debug\PerpectiveTest.tlog\PerpectiveTest.lastbuildstate
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\PerpectiveTest.lastbuildstate
+++_features.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\_features.hpp
+++_fixes.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\_fixes.hpp
+++_noise.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\_noise.hpp
+++_swizzle.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\_swizzle.hpp
+++_swizzle_func.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\_swizzle_func.hpp
+++_vectorize.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\_vectorize.hpp
+++compute_common.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\compute_common.hpp
+++compute_vector_relational.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\compute_vector_relational.hpp
+++func_common.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_common.inl
+++func_common_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_common_simd.inl
+++func_exponential.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_exponential.inl
+++func_exponential_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_exponential_simd.inl
+++func_geometric.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_geometric.inl
+++func_geometric_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_geometric_simd.inl
+++func_integer.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_integer.inl
+++func_integer_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_integer_simd.inl
+++func_matrix.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_matrix.inl
+++func_matrix_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_matrix_simd.inl
+++func_packing.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_packing.inl
+++func_packing_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_packing_simd.inl
+++func_trigonometric.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_trigonometric.inl
+++func_trigonometric_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_trigonometric_simd.inl
+++func_vector_relational.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_vector_relational.inl
+++func_vector_relational_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\func_vector_relational_simd.inl
+++glm.cpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\glm.cpp
+++qualifier.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\qualifier.hpp
+++setup.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\setup.hpp
+++type_float.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_float.hpp
+++type_half.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_half.hpp
+++type_half.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_half.inl
+++type_mat2x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat2x2.hpp
+++type_mat2x2.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat2x2.inl
+++type_mat2x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat2x3.hpp
+++type_mat2x3.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat2x3.inl
+++type_mat2x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat2x4.hpp
+++type_mat2x4.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat2x4.inl
+++type_mat3x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat3x2.hpp
+++type_mat3x2.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat3x2.inl
+++type_mat3x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat3x3.hpp
+++type_mat3x3.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat3x3.inl
+++type_mat3x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat3x4.hpp
+++type_mat3x4.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat3x4.inl
+++type_mat4x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat4x2.hpp
+++type_mat4x2.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat4x2.inl
+++type_mat4x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat4x3.hpp
+++type_mat4x3.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat4x3.inl
+++type_mat4x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat4x4.hpp
+++type_mat4x4.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat4x4.inl
+++type_mat4x4_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_mat4x4_simd.inl
+++type_quat.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_quat.hpp
+++type_quat.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_quat.inl
+++type_quat_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_quat_simd.inl
+++type_vec1.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec1.hpp
+++type_vec1.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec1.inl
+++type_vec2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec2.hpp
+++type_vec2.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec2.inl
+++type_vec3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec3.hpp
+++type_vec3.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec3.inl
+++type_vec4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec4.hpp
+++type_vec4.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec4.inl
+++type_vec4_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\detail\type_vec4_simd.inl
+++matrix_clip_space.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_clip_space.hpp
+++matrix_clip_space.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_clip_space.inl
+++matrix_common.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_common.hpp
+++matrix_common.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_common.inl
+++matrix_double2x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double2x2.hpp
+++matrix_double2x2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double2x2_precision.hpp
+++matrix_double2x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double2x3.hpp
+++matrix_double2x3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double2x3_precision.hpp
+++matrix_double2x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double2x4.hpp
+++matrix_double2x4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double2x4_precision.hpp
+++matrix_double3x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double3x2.hpp
+++matrix_double3x2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double3x2_precision.hpp
+++matrix_double3x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double3x3.hpp
+++matrix_double3x3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double3x3_precision.hpp
+++matrix_double3x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double3x4.hpp
+++matrix_double3x4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double3x4_precision.hpp
+++matrix_double4x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double4x2.hpp
+++matrix_double4x2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double4x2_precision.hpp
+++matrix_double4x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double4x3.hpp
+++matrix_double4x3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double4x3_precision.hpp
+++matrix_double4x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double4x4.hpp
+++matrix_double4x4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_double4x4_precision.hpp
+++matrix_float2x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float2x2.hpp
+++matrix_float2x2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float2x2_precision.hpp
+++matrix_float2x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float2x3.hpp
+++matrix_float2x3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float2x3_precision.hpp
+++matrix_float2x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float2x4.hpp
+++matrix_float2x4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float2x4_precision.hpp
+++matrix_float3x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float3x2.hpp
+++matrix_float3x2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float3x2_precision.hpp
+++matrix_float3x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float3x3.hpp
+++matrix_float3x3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float3x3_precision.hpp
+++matrix_float3x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float3x4.hpp
+++matrix_float3x4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float3x4_precision.hpp
+++matrix_float4x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float4x2.hpp
+++matrix_float4x2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float4x2_precision.hpp
+++matrix_float4x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float4x3.hpp
+++matrix_float4x3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float4x3_precision.hpp
+++matrix_float4x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float4x4.hpp
+++matrix_float4x4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_float4x4_precision.hpp
+++matrix_int2x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int2x2.hpp
+++matrix_int2x2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int2x2_sized.hpp
+++matrix_int2x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int2x3.hpp
+++matrix_int2x3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int2x3_sized.hpp
+++matrix_int2x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int2x4.hpp
+++matrix_int2x4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int2x4_sized.hpp
+++matrix_int3x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int3x2.hpp
+++matrix_int3x2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int3x2_sized.hpp
+++matrix_int3x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int3x3.hpp
+++matrix_int3x3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int3x3_sized.hpp
+++matrix_int3x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int3x4.hpp
+++matrix_int3x4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int3x4_sized.hpp
+++matrix_int4x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int4x2.hpp
+++matrix_int4x2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int4x2_sized.hpp
+++matrix_int4x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int4x3.hpp
+++matrix_int4x3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int4x3_sized.hpp
+++matrix_int4x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int4x4.hpp
+++matrix_int4x4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_int4x4_sized.hpp
+++matrix_projection.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_projection.hpp
+++matrix_projection.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_projection.inl
+++matrix_relational.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_relational.hpp
+++matrix_relational.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_relational.inl
+++matrix_transform.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_transform.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\matrix_transform.hpp
+++matrix_transform.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_transform.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\matrix_transform.inl
+++matrix_uint2x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint2x2.hpp
+++matrix_uint2x2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint2x2_sized.hpp
+++matrix_uint2x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint2x3.hpp
+++matrix_uint2x3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint2x3_sized.hpp
+++matrix_uint2x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint2x4.hpp
+++matrix_uint2x4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint2x4_sized.hpp
+++matrix_uint3x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint3x2.hpp
+++matrix_uint3x2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint3x2_sized.hpp
+++matrix_uint3x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint3x3.hpp
+++matrix_uint3x3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint3x3_sized.hpp
+++matrix_uint3x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint3x4.hpp
+++matrix_uint3x4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint3x4_sized.hpp
+++matrix_uint4x2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint4x2.hpp
+++matrix_uint4x2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint4x2_sized.hpp
+++matrix_uint4x3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint4x3.hpp
+++matrix_uint4x3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint4x3_sized.hpp
+++matrix_uint4x4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint4x4.hpp
+++matrix_uint4x4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\matrix_uint4x4_sized.hpp
+++quaternion_common.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_common.hpp
+++quaternion_common.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_common.inl
+++quaternion_common_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_common_simd.inl
+++quaternion_double.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_double.hpp
+++quaternion_double_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_double_precision.hpp
+++quaternion_exponential.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_exponential.hpp
+++quaternion_exponential.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_exponential.inl
+++quaternion_float.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_float.hpp
+++quaternion_float_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_float_precision.hpp
+++quaternion_geometric.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_geometric.hpp
+++quaternion_geometric.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_geometric.inl
+++quaternion_relational.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_relational.hpp
+++quaternion_relational.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_relational.inl
+++quaternion_transform.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_transform.hpp
+++quaternion_transform.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_transform.inl
+++quaternion_trigonometric.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_trigonometric.hpp
+++quaternion_trigonometric.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\quaternion_trigonometric.inl
+++scalar_common.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_common.hpp
+++scalar_common.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_common.inl
+++scalar_constants.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_constants.hpp
+++scalar_constants.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_constants.inl
+++scalar_int_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_int_sized.hpp
+++scalar_integer.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_integer.hpp
+++scalar_integer.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_integer.inl
+++scalar_packing.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_packing.hpp
+++scalar_packing.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_packing.inl
+++scalar_relational.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_relational.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\scalar_relational.hpp
+++scalar_relational.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_relational.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\scalar_relational.inl
+++scalar_uint_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_uint_sized.hpp
+++scalar_ulp.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_ulp.hpp
+++scalar_ulp.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\scalar_ulp.inl
+++vector_bool1.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool1.hpp
+++vector_bool1_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool1_precision.hpp
+++vector_bool2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool2.hpp
+++vector_bool2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool2_precision.hpp
+++vector_bool3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool3.hpp
+++vector_bool3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool3_precision.hpp
+++vector_bool4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool4.hpp
+++vector_bool4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_bool4_precision.hpp
+++vector_common.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_common.hpp
+++vector_common.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_common.inl
+++vector_double1.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double1.hpp
+++vector_double1_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double1_precision.hpp
+++vector_double2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double2.hpp
+++vector_double2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double2_precision.hpp
+++vector_double3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double3.hpp
+++vector_double3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double3_precision.hpp
+++vector_double4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double4.hpp
+++vector_double4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_double4_precision.hpp
+++vector_float1.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float1.hpp
+++vector_float1_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float1_precision.hpp
+++vector_float2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float2.hpp
+++vector_float2_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float2_precision.hpp
+++vector_float3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float3.hpp
+++vector_float3_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float3_precision.hpp
+++vector_float4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float4.hpp
+++vector_float4_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_float4_precision.hpp
+++vector_int1.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int1.hpp
+++vector_int1_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int1_sized.hpp
+++vector_int2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int2.hpp
+++vector_int2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int2_sized.hpp
+++vector_int3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int3.hpp
+++vector_int3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int3_sized.hpp
+++vector_int4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int4.hpp
+++vector_int4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_int4_sized.hpp
+++vector_integer.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_integer.hpp
+++vector_integer.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_integer.inl
+++vector_packing.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_packing.hpp
+++vector_packing.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_packing.inl
+++vector_relational.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_relational.inl
+++vector_uint1.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint1.hpp
+++vector_uint1_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint1_sized.hpp
+++vector_uint2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint2.hpp
+++vector_uint2_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint2_sized.hpp
+++vector_uint3.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint3.hpp
+++vector_uint3_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint3_sized.hpp
+++vector_uint4.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint4.hpp
+++vector_uint4_sized.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_uint4_sized.hpp
+++vector_ulp.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_ulp.hpp
+++vector_ulp.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\ext\vector_ulp.inl
+++bitfield.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\bitfield.hpp
+++bitfield.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\bitfield.inl
+++color_space.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\color_space.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\color_space.hpp
+++color_space.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\color_space.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\color_space.inl
+++constants.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\constants.hpp
+++constants.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\constants.inl
+++epsilon.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\epsilon.hpp
+++epsilon.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\epsilon.inl
+++integer.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\integer.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\integer.inl
+++matrix_access.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\matrix_access.hpp
+++matrix_access.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\matrix_access.inl
+++matrix_integer.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\matrix_integer.hpp
+++matrix_inverse.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\matrix_inverse.hpp
+++matrix_inverse.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\matrix_inverse.inl
+++noise.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\noise.hpp
+++noise.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\noise.inl
+++packing.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\packing.inl
+++quaternion.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\quaternion.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\quaternion.hpp
+++quaternion.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\quaternion.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\quaternion.inl
+++quaternion_simd.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\quaternion_simd.inl
+++random.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\random.hpp
+++random.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\random.inl
+++reciprocal.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\reciprocal.hpp
+++reciprocal.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\reciprocal.inl
+++round.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\round.hpp
+++round.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\round.inl
+++type_aligned.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\type_aligned.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\type_aligned.hpp
+++type_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\type_precision.hpp
+++type_precision.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\type_precision.inl
+++type_ptr.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\type_ptr.hpp
+++type_ptr.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\type_ptr.inl
+++ulp.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\ulp.hpp
+++ulp.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\ulp.inl
+++vec1.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtc\vec1.hpp
+++associated_min_max.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\associated_min_max.hpp
+++associated_min_max.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\associated_min_max.inl
+++bit.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\bit.hpp
+++bit.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\bit.inl
+++closest_point.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\closest_point.hpp
+++closest_point.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\closest_point.inl
+++color_encoding.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\color_encoding.hpp
+++color_encoding.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\color_encoding.inl
+++color_space_YCoCg.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\color_space_YCoCg.hpp
+++color_space_YCoCg.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\color_space_YCoCg.inl
+++common.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\common.inl
+++compatibility.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\compatibility.hpp
+++compatibility.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\compatibility.inl
+++component_wise.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\component_wise.hpp
+++component_wise.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\component_wise.inl
+++dual_quaternion.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\dual_quaternion.hpp
+++dual_quaternion.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\dual_quaternion.inl
+++easing.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\easing.hpp
+++easing.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\easing.inl
+++euler_angles.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\euler_angles.hpp
+++euler_angles.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\euler_angles.inl
+++extend.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\extend.hpp
+++extend.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\extend.inl
+++extended_min_max.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\extended_min_max.hpp
+++extended_min_max.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\extended_min_max.inl
+++exterior_product.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\exterior_product.hpp
+++exterior_product.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\exterior_product.inl
+++fast_exponential.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\fast_exponential.hpp
+++fast_exponential.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\fast_exponential.inl
+++fast_square_root.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\fast_square_root.hpp
+++fast_square_root.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\fast_square_root.inl
+++fast_trigonometry.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\fast_trigonometry.hpp
+++fast_trigonometry.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\fast_trigonometry.inl
+++float_notmalize.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\float_notmalize.inl
+++functions.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\functions.hpp
+++functions.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\functions.inl
+++gradient_paint.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\gradient_paint.hpp
+++gradient_paint.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\gradient_paint.inl
+++handed_coordinate_space.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\handed_coordinate_space.hpp
+++handed_coordinate_space.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\handed_coordinate_space.inl
+++hash.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\hash.hpp
+++hash.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\hash.inl
+++intersect.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\intersect.hpp
+++intersect.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\intersect.inl
+++io.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\io.hpp
+++io.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\io.inl
+++log_base.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\log_base.hpp
+++log_base.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\log_base.inl
+++matrix_cross_product.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_cross_product.hpp
+++matrix_cross_product.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_cross_product.inl
+++matrix_decompose.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_decompose.hpp
+++matrix_decompose.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_decompose.inl
+++matrix_factorisation.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_factorisation.hpp
+++matrix_factorisation.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_factorisation.inl
+++matrix_interpolation.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_interpolation.hpp
+++matrix_interpolation.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_interpolation.inl
+++matrix_major_storage.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_major_storage.hpp
+++matrix_major_storage.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_major_storage.inl
+++matrix_operation.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_operation.hpp
+++matrix_operation.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_operation.inl
+++matrix_query.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_query.hpp
+++matrix_query.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_query.inl
+++matrix_transform_2d.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_transform_2d.hpp
+++matrix_transform_2d.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\matrix_transform_2d.inl
+++mixed_product.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\mixed_product.hpp
+++mixed_product.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\mixed_product.inl
+++norm.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\norm.hpp
+++norm.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\norm.inl
+++normal.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\normal.hpp
+++normal.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\normal.inl
+++normalize_dot.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\normalize_dot.hpp
+++normalize_dot.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\normalize_dot.inl
+++number_precision.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\number_precision.hpp
+++number_precision.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\number_precision.inl
+++optimum_pow.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\optimum_pow.hpp
+++optimum_pow.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\optimum_pow.inl
+++orthonormalize.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\orthonormalize.hpp
+++orthonormalize.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\orthonormalize.inl
+++perpendicular.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\perpendicular.hpp
+++perpendicular.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\perpendicular.inl
+++polar_coordinates.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\polar_coordinates.hpp
+++polar_coordinates.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\polar_coordinates.inl
+++projection.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\projection.hpp
+++projection.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\projection.inl
+++range.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\range.hpp
+++raw_data.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\raw_data.hpp
+++raw_data.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\raw_data.inl
+++rotate_normalized_axis.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\rotate_normalized_axis.hpp
+++rotate_normalized_axis.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\rotate_normalized_axis.inl
+++rotate_vector.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\rotate_vector.hpp
+++rotate_vector.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\rotate_vector.inl
+++scalar_multiplication.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\scalar_multiplication.hpp
+++spline.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\spline.hpp
+++spline.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\spline.inl
+++std_based_type.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\std_based_type.hpp
+++std_based_type.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\std_based_type.inl
+++string_cast.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\string_cast.hpp
+++string_cast.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\string_cast.inl
+++texture.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\texture.hpp
+++texture.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\texture.inl
+++transform.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\transform.hpp
+++transform.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\transform.inl
+++transform2.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\transform2.hpp
+++transform2.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\transform2.inl
+++type_aligned.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\type_aligned.inl
+++type_trait.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\type_trait.hpp
+++type_trait.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\type_trait.inl
+++vec_swizzle.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\vec_swizzle.hpp
+++vector_angle.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\vector_angle.hpp
+++vector_angle.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\vector_angle.inl
+++vector_query.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\vector_query.hpp
+++vector_query.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\vector_query.inl
+++wrap.hpp
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\wrap.hpp
+++wrap.inl
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\gtx\wrap.inl
+++common.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\common.h
+++exponential.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\exponential.h
+++geometric.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\geometric.h
+++integer.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\integer.h
+++matrix.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\matrix.h
+++neon.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\neon.h
+++packing.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\packing.h
+++platform.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\platform.h
+++trigonometric.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\trigonometric.h
+++vector_relational.h
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\lib\lib\glm\simd\vector_relational.h
+++link.read.2.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link.read.2.tlog
+++link-cvtres.read.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link-cvtres.read.1.tlog
+++link-cvtres.write.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link-cvtres.write.1.tlog
+++link-rc.read.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link-rc.read.1.tlog
+++link-rc.write.1.tlog
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\link-rc.write.1.tlog
+++unsuccessfulbuild
+i:{1cd313f1-0c3f-44b5-acf7-fc24d48da5df}:C:\Users\Max.DESKTOP-29172\source\repos\PerpectiveTest\PerpectiveTest\x64\Debug\PerpectiveTest.tlog\unsuccessfulbuild
